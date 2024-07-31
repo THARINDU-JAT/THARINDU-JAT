@@ -11,7 +11,7 @@
 [![Ask Anything](https://img.shields.io/badge/Ask%20me-Anything-1abc9c.svg)](https://github.com/THARINDU-JAT)
 [![LinkedIn: tharindu-lakshan](https://img.shields.io/badge/-Lakshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharindu-lakshan-150a15201/)](https://www.linkedin.com/in/tharindu-lakshan-150a15201/)
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&color=red&style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100051317481614)](https://www.facebook.com/profile.php?id=100051317481614)
-[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://ahamedsafnaj.com)](https://ahamedsafnaj.com)
+[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://tharindu-jat.github.io/portfolio/)](https://tharindu-jat.github.io/portfolio/)
 <img src="https://komarev.com/ghpvc/?username=THARINDU-JAT&label=Profile%20views&color=0e75b6&style=flat" alt="THARINDU-JAT" />
 
 <table align="center">
