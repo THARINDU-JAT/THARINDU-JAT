@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi..! 👋 { I'm Tharindu Lakshan. };</h1>
-<h3 align="center">Passionate IT Student | Full-Stack Software developer from Sri Lanka | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate IT Student | Full-Stack Software Engineer from Sri Lanka | Exploring the Boundless World of Technology</h3>
 
 [![GitHub THARINDU-JAT](https://img.shields.io/github/followers/THARINDU-JAT?label=follow&style=social)](https://github.com/THARINDU-JAT)
 [![Gmail](https://img.shields.io/badge/Gmail-222222?&color=red&style=flat-square&logo=gmail&logoColor=white&link=mailto:tharindu91.a@gmail.com?subject=Feedback%20From%20Github&body=Hello,)](mailto:tharindu91.a@gmail.com)
@@ -62,7 +62,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/tharindu-lakshan-150a15201/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakshan" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100051317481614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="50" width="50" /></a>
