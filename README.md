@@ -20,7 +20,7 @@
   
 - 🌱 I’m currently learning **MERN, JAVA, ML,Python**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT UNI**
+- 🧑‍🎓 I’m graduated at **SLIIT UNI**
 
 - 💬 Ask me about **Java, Laravel PHP, MERN**
 
