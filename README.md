@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi..! 👋 { I'm Tharindu Lakshan. };</h1>
-<h3 align="center">Passionate IT Student | Full-Stack Software Engineer from Sri Lanka | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate IT Student | Full-Stack Software Engineer from Sri Lanka | 🎓 Graduate Student</h3>
 
 [![GitHub THARINDU-JAT](https://img.shields.io/github/followers/THARINDU-JAT?label=follow&style=social)](https://github.com/THARINDU-JAT)
 [![Gmail](https://img.shields.io/badge/Gmail-222222?&color=red&style=flat-square&logo=gmail&logoColor=white&link=mailto:tharindu91.a@gmail.com?subject=Feedback%20From%20Github&body=Hello,)](mailto:tharindu91.a@gmail.com)
