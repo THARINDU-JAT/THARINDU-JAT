@@ -29,12 +29,11 @@
 - ⚡ Fun fact **Call me as LUCKY..!**
 
 </td>
-<td width="80%" align="center">
+<td width="45%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 320px></p>
 
-  
-  </td>
+</td>
 </tr>
 </table>
 
