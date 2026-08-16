@@ -5,7 +5,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Aspiring+Software+QA+Engineer;Graduate+Student+%7C+Manual+%26+Automation+Testing;Detail-Oriented+%7C+Curious+%7C+Quality-Driven" alt="Typing SVG" />
 </a>
-
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px" alt="Header GIF">
 </div>
 
 <h1 align="center">[Your Name]</h1>
@@ -161,7 +161,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="45" height="45" alt="Gmail" />
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" height="45" alt="Gmail" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="45" height="45" alt="Portfolio" />
