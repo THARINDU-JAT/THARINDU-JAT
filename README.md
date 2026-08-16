@@ -1,146 +1,70 @@
-<div align="center">
-
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="90px" alt="Header GIF">
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Aspiring+Software+QA+Engineer;Graduate+Student+%7C+Manual+%26+Automation+Testing;Detail-Oriented+%7C+Curious+%7C+Quality-Driven" alt="Typing SVG" />
-</a>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="90px" alt="Header GIF">
-</div>
-
-<h1 align="center">[Your Name]</h1>
-<h3 align="center">🧪 Software Associate QA Engineer &nbsp;|&nbsp; 🎓 Graduate Student &nbsp;|&nbsp; 🇱🇰 Sri Lanka</h3>
-
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=for-the-badge&color=FFD60A&logo=github" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-E8B923?style=for-the-badge&logo=googlechrome&logoColor=black" />
-  </a>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p  align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile...!;I'm+a+Full+Stack+Software+Developer...!;I'm+also+studying+Software+Engineering...!;Always+learning+new+things...!;Exploring+the+Boundless+World+of+Technology...!" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=FFD60A&style=for-the-badge" alt="Profile Views" />
-</p>
+<h1 align="center">Hi..! 👋 { I'm Tharindu Lakshan. };</h1>
+<h3 align="center">Passionate IT Student | Full-Stack Software Engineer from Sri Lanka | Exploring the Boundless World of Technology</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
+[![GitHub THARINDU-JAT](https://img.shields.io/github/followers/THARINDU-JAT?label=follow&style=social)](https://github.com/THARINDU-JAT)
+[![Gmail](https://img.shields.io/badge/Gmail-222222?&color=red&style=flat-square&logo=gmail&logoColor=white&link=mailto:tharindu91.a@gmail.com?subject=Feedback%20From%20Github&body=Hello,)](mailto:tharindu91.a@gmail.com)
+[![Ask Anything](https://img.shields.io/badge/Ask%20me-Anything-1abc9c.svg)](https://github.com/THARINDU-JAT)
+[![LinkedIn: tharindu-lakshan](https://img.shields.io/badge/-Lakshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tharindu-lakshan-150a15201/)](https://www.linkedin.com/in/tharindu-lakshan-150a15201/)
+[![Facebook](https://img.shields.io/badge/Facebook-222222?&color=red&style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100051317481614)](https://www.facebook.com/profile.php?id=100051317481614)
+[![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://tharindu-jat.github.io/portfolio/)](https://tharindu-jat.github.io/portfolio/)
+<img src="https://komarev.com/ghpvc/?username=THARINDU-JAT&label=Profile%20views&color=0e75b6&style=flat" alt="THARINDU-JAT" />
 
-## 👩‍💻 About Me
+<table align="center">
+<tr border="none">
+<td width="50%" valign="top">
+  
+- 🌱 I’m currently learning **MERN, JAVA, ML,Python**
 
-<table>
-<tr>
-<td width="55%" valign="top">
+- 🧑‍🎓 I’m graduated at **SLIIT UNI**
 
-- 🎓 Graduate student in **Software Engineering / Computer Science**
-- 🧪 Passionate about **quality assurance** — I care about *why* something breaks, not just *that* it broke
-- ✅ Experience in **manual testing** and **automation** using **Selenium** and **Postman**
-- 🐞 Comfortable writing test cases, tracking defects, and validating APIs end-to-end
-- 💬 Ask me about **Manual & Automation Testing · API Testing · Test Case Design · Java**
-- 📫 Reach me at **your.email@gmail.com**
-- 🌱 Currently sharpening my automation and API testing skills
+- 💬 Ask me about **Java, Laravel PHP, MERN**
+
+- 📫 How to reach me **tharindu91.a@gmail.com**
+  
+- ⚡ Fun fact **Call me as LUCKY..!**
 
 </td>
 <td width="45%" align="center">
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 320px></p>
-
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></p>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
+---
 
-## 🧪 QA & Testing Toolkit
-
-**🚀 Automation Frameworks & Modern Tooling**
-
-<p>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/TestNG-E1341E?style=for-the-badge&logo=testng&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-<img src="https://img.shields.io/badge/RestAssured-3E4B5B?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Appium-660198?style=for-the-badge&logo=appium&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-<img src="https://img.shields.io/badge/BrowserStack-orange?style=for-the-badge&logo=browserstack&logoColor=white" />
-</p>
-
-**🔁 CI/CD for Test Automation**
-
-<p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,docker" />
-</p>
-
-- 🔗 Integrating automated test suites into **CI/CD pipelines** (GitHub Actions, Jenkins)
-- 📈 Generating and reading **automated test reports** (Allure, Extent Reports)
-- 🐳 Comfortable running tests in **Dockerized** environments
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
-
-## 💻 Technical Foundation
-
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css,php" />
-</p>
-
-**Frameworks & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github,vscode,mysql,mongodb" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
-
-## 🎓 Academic Highlights
-
-- 📚 Currently pursuing a graduate degree with a focus on **Software Quality & Engineering**
-- 🧠 Coursework in **Software Testing, Databases, Web Development, and Software Design**
-- 🏆 *(Add any relevant coursework, thesis topic, GPA, or academic project here)*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
-
-## 📊 GitHub Stats
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=30,0D1117,3A2E00,FFD60A&title_color=FFD60A&icon_color=FFD60A&text_color=EDEDED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=30,0D1117,3A2E00,FFD60A&title_color=FFD60A&text_color=EDEDED" />
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/tharindu-lakshan-150a15201/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakshan" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100051317481614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="" height="50" width="50" /></a>
 </p>
 
+---
+
+<h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Languages and Tools:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/DavinchiResolve.svg" alt="DavinchiResolve" width="50" height="50"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/></a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" alt="laravel" width="50" height="50"/></a> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="Angular" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Light.svg" alt="Firebase" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" alt="VisualStudio" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VisualCode" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="50" height="50"/></a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Azure-Light.svg" alt="Azure" width="50" height="50"/></a>
+
+</p>
+
+---
+<h3 align="center"> 🐍 My Contributions Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0D1117,3A2E00,FFD60A&ring=FFD60A&fire=FFD60A&currStreakLabel=FFD60A" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FFD60A&height=3&width=100%25" width="100%">
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" height="45" alt="Gmail" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="45" height="45" alt="Portfolio" />
-  </a>
-</p>
-
-<div align="center">
-
-⭐️ *Thanks for visiting my profile — I'm always open to QA and software engineering opportunities!*
-
-</div>
