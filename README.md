@@ -16,7 +16,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="50%" valign="top">
   
 - 🌱 I’m currently learning **MERN, JAVA, ML,Python**
 
@@ -31,7 +31,7 @@
 </td>
 <td width="45%" align="center">
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 320px></p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></p>
 
 </td>
 </tr>
