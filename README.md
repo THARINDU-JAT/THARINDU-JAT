@@ -60,42 +60,13 @@
 
 ## 🧪 QA & Testing Toolkit
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Testing Types**
-- ✅ Manual / Functional Testing
-- ✅ Regression & Smoke Testing
-- ✅ API Testing (REST)
-- ✅ UI / Cross-browser Testing
-- ✅ Automation Scripting (Selenium)
-- ✅ Exploratory & Usability Testing
-
-**Test Management & Bug Tracking**
-- 📝 Test case design & execution
-- 🐞 Jira / Bug lifecycle tracking
-- 📋 Test plans & test reports
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
 **🚀 Automation Frameworks & Modern Tooling**
 
 <p>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 <img src="https://img.shields.io/badge/TestNG-E1341E?style=for-the-badge&logo=testng&logoColor=white" />
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
