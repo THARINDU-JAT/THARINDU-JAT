@@ -6,6 +6,8 @@
 <h1 align="center">Hi..! 👋 { I'm Tharindu Lakshan. };</h1>
 <h3 align="center">Passionate IT Student | Full-Stack Software Engineer from Sri Lanka | 🎓 Graduate Student</h3>
 
+<div align="center">
+
 [![GitHub THARINDU-JAT](https://img.shields.io/github/followers/THARINDU-JAT?label=follow&style=social)](https://github.com/THARINDU-JAT)
 [![Gmail](https://img.shields.io/badge/Gmail-222222?&color=red&style=flat-square&logo=gmail&logoColor=white&link=mailto:tharindu91.a@gmail.com?subject=Feedback%20From%20Github&body=Hello,)](mailto:tharindu91.a@gmail.com)
 [![Ask Anything](https://img.shields.io/badge/Ask%20me-Anything-1abc9c.svg)](https://github.com/THARINDU-JAT)
@@ -13,6 +15,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-222222?&color=red&style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100051317481614)](https://www.facebook.com/profile.php?id=100051317481614)
 [![Website](https://img.shields.io/badge/WebSite-222222?&color=blue&style=flat-square&logo=google-chrome&logoColor=white&link=https://tharindu-jat.github.io/portfolio/)](https://tharindu-jat.github.io/portfolio/)
 <img src="https://komarev.com/ghpvc/?username=THARINDU-JAT&label=Profile%20views&color=0e75b6&style=flat" alt="THARINDU-JAT" />
+
+</div>
 
 <table align="center">
 <tr border="none">
